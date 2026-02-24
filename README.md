@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm kanzenon6917, a Tokyo-based software engineer specializing in ECG signal processing and AI-driven medical software.
+
+I work on algorithm development, machine learning, and automation systems with a focus on reliability and regulatory compliance.
+
+I primarily use Python, C, and Git, and have experience building deep learning models with Keras and PyTorch.
+
+Currently exploring advanced AI applications and scalable backend systems.
+
+
 <!--
 **kanzeon6917/kanzeon6917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
