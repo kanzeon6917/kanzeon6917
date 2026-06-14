@@ -4,7 +4,7 @@ I'm kanzenon6917, a Tokyo-based software engineer specializing in ECG signal pro
 
 I work on algorithm development, machine learning, and automation systems with a focus on reliability and regulatory compliance.
 
-I primarily use Python, C, and Git, and have experience building deep learning models with Keras and PyTorch.
+I primarily use Python, C, and have experience building deep learning models with Keras and PyTorch.
 
 Currently exploring advanced AI applications and scalable backend systems.
 
